@@ -7,7 +7,7 @@ their corresponding programming languages.
 
 
 here is what the output looks like:
-`
+```
 ┌─────────┬─────────────┬───────────┬───────┐
 │ (index) │ language    │ command   │ found │
 ├─────────┼─────────────┼───────────┼───────┤
@@ -81,4 +81,5 @@ here is what the output looks like:
 │ 67      │ Tcl         │ tclsh     │ false │
 │ 68      │ Vala        │ valac     │ false │
 │ 69      │ Zig         │ zig       │ false │
-└─────────┴─────────────┴───────────┴───────┘`
+└─────────┴─────────────┴───────────┴───────┘
+```
